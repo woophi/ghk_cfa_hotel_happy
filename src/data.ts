@@ -14,6 +14,7 @@ export const data = {
   p3: 'Проектный ЦФА – это инновационный продукт, выпускаемый в формате ЦФА.',
   cfaNumber: 'YKNT-1-DTD-092024-00073',
   cfaPrice: '1500 ₽',
+  cfaPriceNumber: 1500,
   cfaVolume: 'от 1 500 000 ₽ до 15 000 000 ₽',
   cfaVolumeM2: 'от 10 м2 до 100 м2',
   cfaPeriodPayment: 'Интервальная',
